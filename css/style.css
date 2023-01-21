@@ -30,7 +30,7 @@ img{
 	border: 10px dashed #ffffff;
 }
 
-div{
+body div{
 	height: auto;
 	min-height: 125px;
 	padding: 20px;
