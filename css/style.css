@@ -30,7 +30,13 @@ img{
 	border: 10px dashed #ffffff;
 }
 
-
+div{
+	height: auto;
+	min-height: 125px;
+	padding: 20px;
+	border: #FFFFFF solid 3px;
+	
+}
 
 .introduction{
 	
@@ -89,10 +95,4 @@ footer p{
 	padding: 15px 15px 15px 0px;
 	color: #FFFFFF;
 }
-div{
-	height: auto;
-	min-height: 125px;
-	padding: 20px;
-	border: #FFFFFF solid 3px;
-	
-}
+
